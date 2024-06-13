@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.galeria{
+    display: flex;
+    flex-direction: row;
+}
+.galeria div{
+    width: 200px;
+    height: 200px;
+}
+
+.item1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.item2{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+.item3{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.item4{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+.item5{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
